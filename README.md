@@ -5,11 +5,15 @@ Reusable, consent-gated Skills for AI-assisted vertical video editing.
 ## Install for Codex
 
 ```powershell
-npx skills add OWNER/short-video-editing-skills --skill safe-video-editing-setup -a codex
-npx skills add OWNER/short-video-editing-skills --skill safe-short-video-editor -a codex
+npx skills add CYYTW/short-video-editing-skills --skill safe-video-editing-setup -a codex
+npx skills add CYYTW/short-video-editing-skills --skill safe-short-video-editor -a codex
 ```
 
-Replace `OWNER` with the GitHub account shown in this repository URL.
+To install both skills interactively, use:
+
+```powershell
+npx skills add CYYTW/short-video-editing-skills
+```
 
 ## Included Skills
 
