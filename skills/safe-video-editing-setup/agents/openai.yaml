@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safe Video Setup"
+  short_description: "Verify AI video editing prerequisites safely."
+  default_prompt: "Use $safe-video-editing-setup to verify my local AI video-editing environment without changing it."

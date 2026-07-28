@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safe Short Video Editor"
+  short_description: "Create verified vertical shorts with consent gates."
+  default_prompt: "Use $safe-short-video-editor to turn my source video into a verified vertical short."

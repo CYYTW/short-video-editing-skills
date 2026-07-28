@@ -1,0 +1,14 @@
+.env
+.env.*
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+*.m4a
+*.srt
+*.ass
+edit/
+downloads/
+__pycache__/
+.venv/
